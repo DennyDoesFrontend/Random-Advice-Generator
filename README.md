@@ -28,8 +28,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [](https://your-solution-url.com)
-- Live Site URL: [](https://your-live-site-url.com)
+- Front end Mentor Profile URL: []((https://www.frontendmentor.io/profile/DennyIsNaive))
+- Live Site URL: [](https://dennydoesfrontend.github.io/Random-Advice-Generator/)
 
 ## My process
 
@@ -40,7 +40,7 @@ After reading through the docs, I proceeded to work on the JavaScript part of th
 ### Built with
 
 - HTML 5
--SCSS
+-CSS
 -Vanilla JS
 
 

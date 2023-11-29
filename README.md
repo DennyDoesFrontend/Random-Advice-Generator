@@ -28,8 +28,8 @@ Users should be able to:
 
 ### Links
 
-- Front end Mentor Profile URL: []((https://www.frontendmentor.io/profile/DennyIsNaive))
-- Live Site URL: [](https://dennydoesfrontend.github.io/Random-Advice-Generator/)
+- Front end Mentor Profile URL: [Here]((https://www.frontendmentor.io/profile/DennyIsNaive))
+- Live Site URL: [Here](https://dennydoesfrontend.github.io/Random-Advice-Generator/)
 
 ## My process
 
